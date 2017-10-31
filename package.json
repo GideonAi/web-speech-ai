@@ -1,14 +1,14 @@
 {
-  "name": "web-speech-ai",
-  "version": "1.0.0",
-  "description": "Simple AI Chat Bot Demo with Web Speech API",
+  "name": "GideonWebSpeech",
+  "version": "1.5.0",
+  "description": "Gideon",
   "main": "index.js",
   "scripts": {
     "start": "nf start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Tomomi Imura",
-  "license": "MIT",
+  "author": "JosephWorks",
+  "license": "None",
   "dependencies": {
     "apiai": "^4.0.2",
     "ejs": "^2.5.6",
