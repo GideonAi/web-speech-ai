@@ -12,5 +12,5 @@ This is how this web app works:
 ### Try It on Your Own Server
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/girliemac/web-speech-ai)
 
-
-
+# Sponsored by:
+Girliemac - Created the base of this software
